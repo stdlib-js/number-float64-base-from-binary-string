@@ -40,7 +40,8 @@
     "@stdlib/constants-float64-exponent-bias": "^0.0.x",
     "@stdlib/constants-float64-ninf": "^0.0.x",
     "@stdlib/constants-float64-pinf": "^0.0.x",
-    "@stdlib/math-base-special-pow": "^0.0.x"
+    "@stdlib/math-base-special-pow": "^0.0.x",
+    "@stdlib/string-format": "^0.0.x"
   },
   "devDependencies": {
     "@stdlib/bench": "^0.0.x",
