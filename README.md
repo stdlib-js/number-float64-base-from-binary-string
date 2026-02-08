@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import fromBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-from-binary-string@deno/mod.js';
+import fromBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-from-binary-string@v0.2.3-deno/mod.js';
 ```
 
 #### fromBinaryString( bstr )
@@ -114,7 +114,7 @@ import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pow@deno/mod.js';
 import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-to-binary-string@deno/mod.js';
-import fromBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-from-binary-string@deno/mod.js';
+import fromBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-from-binary-string@v0.2.3-deno/mod.js';
 
 var frac;
 var sign;
